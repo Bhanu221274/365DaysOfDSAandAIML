@@ -19,4 +19,3 @@ Today I explored the **Naive Bayes Classifier** and implemented a simple **Email
 
 Excited to step into **NLP and ML models** as part of my 365-day journey 🚀  
 
-#365DaysOfDSAandAIML #MachineLearning #NaiveBayes #Python #NLP #SpamDetection #Consistency #CodingChallenge #GitHub

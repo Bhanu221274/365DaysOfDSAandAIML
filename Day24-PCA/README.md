@@ -1,4 +1,4 @@
-📘 Day 23 Principal Component Analysis (PCA)
+📘 Day 24 Principal Component Analysis (PCA)
 
 Today, I explored Principal Component Analysis (PCA), a powerful dimensionality reduction technique in Machine Learning. PCA is widely used to simplify datasets, remove noise, and speed up model training while retaining maximum information.
 
